@@ -12,6 +12,8 @@ From the scraped Year links, the By_Year folder is created, containing CSV files
 
 Then the All_Matches.csv file is used to segregate the data into other folders like By_Ground, By_Team and By_Hosting_Nation.
 
+You may find some anomalies in the CSV files in the Host Team column. Those anomalies are explained in the Jupyter Notebook.
+
 The above dataset is also uploaded to Kaggle: https://www.kaggle.com/bong952/test-matches-played-from-1877-jan-2022 <br>
 The Jupyter notebook was originally posted and edited on Jovian: https://jovian.ai/ash007online/test-match-records
 
